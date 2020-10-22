@@ -10,6 +10,13 @@ body {
 }
 .search-input {
   padding: 4px;
+  margin-left: 20px;
+  width: 29%;
+  font-family: "Montserrat", sans-serif;
+}
+.search-title {
+  position: absolute;
+  margin: 0;
   width: 29%;
   font-family: "Montserrat", sans-serif;
 }
